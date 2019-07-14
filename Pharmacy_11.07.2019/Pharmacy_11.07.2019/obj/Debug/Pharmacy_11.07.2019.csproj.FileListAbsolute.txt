@@ -1,0 +1,14 @@
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\bin\Debug\Pharmacy_11.07.2019.exe.config
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\bin\Debug\Pharmacy_11.07.2019.exe
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\bin\Debug\Pharmacy_11.07.2019.pdb
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\obj\Debug\Pharmacy_11.07.2019.csprojAssemblyReference.cache
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\obj\Debug\Pharmacy_11._07._2019.Properties.Resources.resources
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\obj\Debug\Pharmacy_11.07.2019.csproj.GenerateResource.cache
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\obj\Debug\Pharmacy_11.07.2019.csproj.CoreCompileInputs.cache
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\obj\Debug\Pharmacy_11.07.2019.exe
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\obj\Debug\Pharmacy_11.07.2019.pdb
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\obj\Debug\Pharmacy_11._07._2019.HomePage.resources
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\obj\Debug\Pharmacy_11._07._2019.Delete.resources
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\bin\Debug\MaterialSkin.dll
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\obj\Debug\Pharmacy_11.07.2019.csproj.CopyComplete
+C:\Users\Cavid\source\repos\Pharmacy_11.07.2019\Pharmacy_11.07.2019\obj\Debug\Pharmacy_11._07._2019.Login.resources
